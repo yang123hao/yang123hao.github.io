@@ -1,0 +1,89 @@
+/*----content start-------- */
+.content-left{width:1020px;}
+.content-left .list{margin:30px auto;}
+.content-left .list a{padding:10px 30px; margin-right:15px; background-color:#818181; color:#fff;}
+.content-left .list a:hover, .content-left .list .aa{background-color:#0179B5;}
+.homesel {float: left; width: 230px; margin-right: 10px; text-align: center; height: 24px; line-height: 24px; font-size: 14px;}
+.homesub {float: left; width: 100px; height: 24px; background-color: #0179B5; border: 0; color: #fff; font-weight: bold; font-size: 14px; text-align: center; line-height: 24px;}
+/*-----end-----*/
+.imgbg img{border:1px solid #ccc; margin:20px 0 10px;}
+/*-----end-----*/
+.xqzuo{ float:left; width:12px; margin-right:10px; margin-top:1px; cursor:pointer;}
+.xqyou{ float:right; width:12px; margin-top:1px; cursor:pointer; margin-right:26px;}
+.xqcon{ float:left; width:658px; height:60px; overflow:hidden; zoom:1; position:relative;}
+.xqcon span{ float:left; width:77px; height:58px; border:1px solid #ccc; display:inline; margin:0 7px 0 8px; cursor:pointer;}
+.xqlist{ position:absolute; width:40000px;}
+/*-----end-----*/
+.content-left .text1{padding:20px 10px 0px;}
+.content-left .img1, .content-left .img2{text-align: center; margin-bottom:30px;}
+.content-left table{margin:0 0 70px 42px; border-collapse: collapse;}
+.content-left table td{border:1px solid #ccc; line-height:28px; text-align: center;}
+.tablebg{width:140px; background-color:#E7F7FF; }
+.tablebg1{width:502px;}
+/*-----end-----*/
+.address{margin-top:20px;}
+.address a{width:240px; height:35px; margin:0 0 12px 10px ;  display:inline-block; color:#fff; text-align:center; line-height:35px;}
+.address a:first-child{background-color:#F68B00;}
+.address a:nth-child(2){ background-color:#0179B5;}
+.address a:nth-child(3){ background-color:#989898;}
+.address a:nth-child(4){ background-color:#82AE00;}
+.address a:nth-child(5){ background-color:#A76A34;}
+.address a:nth-child(6){ background-color:#295D00;}
+.address a:nth-child(7){ background-color:#BC6A00;}
+.address a:nth-child(8){ background-color:#5590AD;}
+.address a:nth-last-child(2){ background-color:#D17171;}
+.address a:last-child{ background-color:#AAA700;}
+/**************************************************************************/
+/*------------------------index4 start  成功案例---------------------- */
+/**************************************************************************/
+/*----content start-------- */
+.content-left-one{border-bottom:1px dashed #ccc; width:730px; margin-bottom:20px;}
+.content-left-one img{width:213px; height:142px border:1px solid #ccc; padding:3px; margin:10px auto 30px; float:left;}
+.content-left-one .text4{margin-top:25px; width:490px; float:right;}
+.content-left-one .text4 h3{line-height:28px; font-size:14px;}
+.content-left-one .text4 span{line-height:22px;}
+.content-left-one .text4 .bt{float:right;  margin:30px 8px 0 0;}
+.content-left-one .text4 a{background:url(../img/bg11.png) no-repeat left center; width:87px; height:32px; color:#fff; display:inline-block; text-align:center; line-height:32px; margin-left:10px;}
+.fenye{margin:40px auto 70px; text-align:center; }
+.fenye a{margin-right:25px;}
+.fenye a:last-child{margin-right:0;}
+.fenye a:hover{color:#0179B5;}
+/**************************************************************************/
+/*------------------------index5 start  新闻中心---------------------- */
+/**************************************************************************/
+/*----content start-------- */
+.content-left .news{margin-top:20px;}
+.content-left ul li{border-bottom:1px dashed #ccc; height:60px; line-height:60px; width:720px; font-family:"微软雅黑";}
+.content-left ul li strong{width:45px; height:43px;  display: inline-block; padding-left:13px; line-height:41px; background:url(../img/bg12.png) no-repeat left center; color:#fff; font-size:20px; font-weight:normal;}
+.content-left ul li a{line-height:60px; font-size:14px; text-align: center; padding-left:30px; height:60px;}
+.content-left ul li span{float:right; font-size:14px; }
+/**************************************************************************/
+/*------------------------index6 start  联盟展示---------------------- */
+/**************************************************************************/
+.content-left .partner{margin-top:50px;}
+.content-left dl{float:left; margin:0 10px 10px 0 ;}
+.content-left dt{border:1px solid #ccc; width:225px;height:153px;}
+.content-left dd{line-height:30px; text-align: center; }
+/**************************************************************************/
+/*------------------------index7 start  联系我们---------------------- */
+/**************************************************************************/
+.content-left .text7{width:h6 0px; margin:15px auto;}
+.content-left .bg{float:left; margin:0 15px 5px 0;}
+.content-left .bg h6 {font-size:12px;  line-height:38px; font-weight:normal;}
+.content-left .bg h6 span{padding-left:50px; padding-top:15px; width:280px; height:15px; display:inline-block; margin:0 15px 15px 0;}
+.content-left .bg:first-child{background:url(../img/bg13.png) no-repeat left center;}
+.content-left .bg:nth-child(2){background:url(../img/bg14.png) no-repeat left center;}
+.content-left .bg:nth-child(3){background:url(../img/bg15.png) no-repeat left center;}
+.content-left .bg:nth-child(4){background:url(../img/bg16.png) no-repeat left center;}
+.content-left .bg:nth-child(5){background:url(../img/bg17.png) no-repeat left center;}
+.content-left .bg:nth-child(6){background:url(../img/bg18.png) no-repeat left center;}
+.content-left .img3- img{margin-top:30px;}
+/**************************************************************************/
+/*------------------------index8 start  在线预定---------------------- */
+/**************************************************************************/
+.put{margin:50px auto;}
+.put ul li{width:545px; height:58px; margin:0 auto;}
+.put .renshu{display: inline-block; width: 225px; height: 24px; border: 1px solid #C9C9C9; background-color: #F7F7F7;  line-height: 24px;}
+.btn{width:505px; margin:30px auto;  padding-left:45px;}
+.chongzhi, .tijiao{background:url(../img/bg19.png) no-repeat left center; width:61px; height:35px; color:#fff; margin-right:30px;}
+

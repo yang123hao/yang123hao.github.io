@@ -1,0 +1,43 @@
+/*------------------------------index start--------------------------------*/
+/*------------------------------banner start------------------------------*/
+.jquery{ margin-top:10px; position:relative;}
+#left{ position:absolute; left:0; top:158px; z-index:100;width:47;px; height:91px;cursor:pointer;}
+#right{ position:absolute; left:953px; top:158px; z-index:100;width:47px; height:91px;cursor:pointer;}
+#list{ position:relative;width:1000px;height:420px;overflow:hidden;}
+#listcon{ position:absolute; width:100000px;}
+#listcon a{float:left;width:1000px; display:inline;}
+/*---------------------------index banner end------------------------------*/
+/*---------------------------index content start------------------------------*/
+.content{margin:10px auto;}
+.content1-1{width:345px;}
+.content1-1-title img{float:left; padding-right:10px;}
+.content1-1-title h2{font-size:22px; font-weight:normal;}
+.content1-1-title span{background:url(../img/bg4.png) no-repeat left bottom; display:inline-block; width:250px; padding-bottom:10px; padding-top:20px;}
+.content1-1-text {margin:20px 10px 0; line-height:22px;}
+/*--------------------------- content1-2 start------------------------------*/
+.content1-2{width:340px; margin:auto 20px;}
+.content1-2 ul{margin-top:20px; padding:0 10px;}
+.content1-2 ul li{line-height:20px; border-bottom:1px dashed #ccc;}
+.content1-2 ul li span{float:right;}
+/*--------------------------- content1-3 start------------------------------*/
+.content1-3{width:270px;}
+.content1-3-title img{float:left; padding-right:5px;}
+.content1-3-title h2{font-size:22px; font-weight:normal;}
+.content1-3-title span{background:url(../img/bg4.png) no-repeat left bottom; display:inline-block; width:180px; padding-bottom:10px; padding-top:20px;}
+.content1-3-text {margin:20px 10px 0; line-height:22px; padding-left:40px;}
+/*--------------------------- content1 end------------------------------*/
+/*--------------------------- content2 start------------------------------*/
+.content2{margin-top:25px;}
+.content2-title span{background:url(../img/bg2-1.png) repeat-x left bottom;; display:inline-block; width:1000px; padding-bottom:10px; }
+.content2-title h2{font-size:22px; float:left; font-weight:normal; }
+.content2-title a{font-size:14px; float:right; margin-right:5px; display:inline-block; margin-top:10px; cursor: pointer;}
+.content2 ul{margin-top:20px;}
+.content2 ul li{float:left; width:184px; height:145px; padding:3px; border:1px solid #ccc; margin-right:8px;}
+/*--------------------------- content2 end------------------------------*/
+/*--------------------------- content3 start------------------------------*/
+.content3{margin-top:25px;}
+.content3 .partner{margin-top:20px;}
+.content3 dl{float:left; margin-right:4px;}
+.content3 dt{border:1px solid #ccc; width:136px;height:93px;}
+.content3 dd{line-height:30px; text-align: center; }
+/*--------------------------- content start------------------------------*/
